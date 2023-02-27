@@ -1,0 +1,15 @@
+.Card{
+    margin-bottom: 50px;
+    background-color: black;
+    cursor: pointer;
+    height:max-content;
+
+}
+.likeNo{
+    font-size: 16px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.headerDiv{
+    display: flex;
+}

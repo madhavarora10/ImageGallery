@@ -1,0 +1,7 @@
+.TagsButton{
+    border: none;
+    min-height: 30px;
+    min-width: 70px;
+    cursor: pointer;
+    margin: 7px;
+}
